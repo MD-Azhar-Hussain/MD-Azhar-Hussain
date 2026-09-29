@@ -36,15 +36,19 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 I enjoy turning ideas into **usable, deployed software** — full-stack web apps, AI-powered systems, computer vision, and IoT, built end-to-end and shipped.
+Building practical products at the intersection of  
+**software engineering, intelligent systems, and emerging technology.**
+---
+My work spans full-stack web applications, AI-powered systems, computer vision, IoT, and experimentation with modern developer technologies.
 
-```yaml
-focus:
-  - Clean, maintainable code
-  - Thoughtful product architecture
-  - Real-world problem solving
-  - Performance & scalability
-  - Build → Deploy → Iterate
-```
+I care about:
+
+- Clean and maintainable code
+- Thoughtful product architecture
+- Real-world problem solving
+- Performance and scalability
+- Building, deploying, and iterating
+---
 
 <br/>
 
@@ -151,7 +155,7 @@ Drone → Camera / Sensors → Edge Processing → YOLOv8 (Object Detection)
 
 A collection of projects and prototypes exploring intelligent systems and connected technology.
 
-`Deepfake Voice Detection` · `Deepfake Video Detection` · `Smart Glasses` · `Vertical Farming` · `IoT Systems`
+· `Smart Watt Notify` · `Drone based projects` · `IoT Systems` · `Building IoT Projects`
 
 </details>
 
@@ -163,12 +167,16 @@ A collection of projects and prototypes exploring intelligent systems and connec
 
 <div align="center">
 
-| # | Area | # | Area |
-|:-:|------|:-:|------|
-| 01 | Full-Stack Engineering | 05 | Computer Vision |
-| 02 | Backend Architecture | 06 | IoT & Intelligent Systems |
-| 03 | AI / ML Applications | 07 | Cloud & Containerization |
-| 04 | Generative AI & LLMs | 08 | Data Structures & Algorithms |
+```text
+01  Full-Stack Engineering
+02  Backend Architecture
+03  AI / ML Applications
+04  Generative AI & LLMs
+05  Computer Vision
+06  IoT & Intelligent Systems
+07  Cloud & Containerization
+08  Data Structures & Algorithms
+```
 
 </div>
 
@@ -176,42 +184,28 @@ A collection of projects and prototypes exploring intelligent systems and connec
 
 <div align="center">
 
-`Idea` → `Understand the problem` → `Design the system` → `Build` → `Test & Refine` → `Deploy` → `Iterate`
-
+```Plaintext
+Idea
+  ↓
+Understand the problem
+  ↓
+Design the system
+  ↓
+Build the product
+  ↓
+Test & Refine
+  ↓
+Deploy
+  ↓
+Iterate
+```
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-## 📊&nbsp; GitHub Stats
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MD-Azhar-Hussain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Azhar-Hussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" width="30%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Azhar-Hussain&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6" width="49%"/>
+# I learn by building — and build to solve real problems.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MD-Azhar-Hussain&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-## 🐍&nbsp; Contribution Snake
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/MD-Azhar-Hussain/MD-Azhar-Hussain/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> 💡 **One-time setup:** this snake needs the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action added to this repo — it generates the animated SVG above on a schedule automatically. Ask me and I'll write the workflow file for you.
-
-<br/>
+### GitHub Activity
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ## 🔨&nbsp; Currently Building
