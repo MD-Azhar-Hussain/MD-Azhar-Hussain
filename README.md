@@ -98,7 +98,7 @@ A modern platform built around real-time knowledge sharing and intelligent quest
 
 **Stack:** React · Node.js · Express · MongoDB · AI
 
-[Live Project](https://undoubt-ai.vercel.app/) · [Repository](https://github.com/MD-Azhar-Hussain)
+[Live Project](https://undoubt-ai.vercel.app/) · [Repository](https://github.com/MD-Azhar-Hussain/Undoubt_ai)
 
 ---
 
@@ -108,7 +108,7 @@ A responsive movie discovery application powered by the TMDB API with a modern f
 
 **Stack:** React · Vite · Tailwind CSS · Appwrite · TMDB API
 
-[Live Project](https://filmpoint.vercel.app/) · [Repository](https://github.com/MD-Azhar-Hussain)
+[Live Project](https://filmpoint.vercel.app/) · [Repository](https://github.com/MD-Azhar-Hussain/movie-app)
 
 ---
 
@@ -143,6 +143,8 @@ Data Processing
 Real-Time Dashboard
 
 ---
+```
+
 
 ### AI & IoT Experiments
 
@@ -163,9 +165,10 @@ A collection of projects and prototypes exploring intelligent systems and connec
 06  IoT & Intelligent Systems
 07  Cloud & Containerization
 08  Data Structures & Algorithms
+```
 
-Engineering Mindset
-Plaintext
+### Engineering Mindset
+```Plaintext
 Idea
   ↓
 Understand the problem
@@ -179,10 +182,13 @@ Test & Refine
 Deploy
   ↓
 Iterate
-I learn by building — and build to solve real problems.
+```
 
-GitHub Activity
-Currently Building
+# I learn by building — and build to solve real problems.
+
+### GitHub Activity
+# Currently Building
+```text
 ▸ Better full-stack applications
 
 ▸ AI-powered developer products
@@ -192,3 +198,4 @@ Currently Building
 ▸ Scalable backend services
 
 ▸ Production-ready deployments
+```
