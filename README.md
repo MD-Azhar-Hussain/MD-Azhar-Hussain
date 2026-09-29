@@ -35,10 +35,8 @@
 ## 👋&nbsp; About Me
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-I enjoy turning ideas into **usable, deployed software** — full-stack web apps, AI-powered systems, computer vision, and IoT, built end-to-end and shipped.
-Building practical products at the intersection of  
-**software engineering, intelligent systems, and emerging technology.**
----
+I enjoy turning ideas into **usable, deployed software** — building practical products at the intersection of **software engineering, intelligent systems, and emerging technology.**
+
 My work spans full-stack web applications, AI-powered systems, computer vision, IoT, and experimentation with modern developer technologies.
 
 I care about:
@@ -48,7 +46,6 @@ I care about:
 - Real-world problem solving
 - Performance and scalability
 - Building, deploying, and iterating
----
 
 <br/>
 
@@ -155,7 +152,7 @@ Drone → Camera / Sensors → Edge Processing → YOLOv8 (Object Detection)
 
 A collection of projects and prototypes exploring intelligent systems and connected technology.
 
-· `Smart Watt Notify` · `Drone based projects` · `IoT Systems` · `Building IoT Projects`
+`Smart Watt Notify` · `Drone based projects` · `IoT Systems` · `Building IoT Projects`
 
 </details>
 
@@ -164,8 +161,6 @@ A collection of projects and prototypes exploring intelligent systems and connec
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ## 🎯&nbsp; What I'm Exploring
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 ```text
 01  Full-Stack Engineering
@@ -178,9 +173,7 @@ A collection of projects and prototypes exploring intelligent systems and connec
 08  Data Structures & Algorithms
 ```
 
-</div>
-
-**Engineering mindset:**
+### **Engineering mindset:**
 
 <div align="center">
 
@@ -201,11 +194,9 @@ Iterate
 ```
 </div>
 
-# I learn by building — and build to solve real problems.
+### I learn by building — and build to solve real problems.
 
 <br/>
-
-### GitHub Activity
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ## 🔨&nbsp; Currently Building
