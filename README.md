@@ -141,3 +141,54 @@ Data Processing
   │
   ▼
 Real-Time Dashboard
+
+---
+
+### AI & IoT Experiments
+
+A collection of projects and prototypes exploring intelligent systems and connected technology.
+
+`Deepfake Voice Detection` · `Deepfake Video Detection` · `Smart Glasses` · `Vertical Farming` · `IoT Systems`
+
+---
+
+# What I'm Exploring
+
+```text
+01  Full-Stack Engineering
+02  Backend Architecture
+03  AI / ML Applications
+04  Generative AI & LLMs
+05  Computer Vision
+06  IoT & Intelligent Systems
+07  Cloud & Containerization
+08  Data Structures & Algorithms
+
+Engineering Mindset
+Plaintext
+Idea
+  ↓
+Understand the problem
+  ↓
+Design the system
+  ↓
+Build the product
+  ↓
+Test & Refine
+  ↓
+Deploy
+  ↓
+Iterate
+I learn by building — and build to solve real problems.
+
+GitHub Activity
+Currently Building
+▸ Better full-stack applications
+
+▸ AI-powered developer products
+
+▸ Intelligent IoT systems
+
+▸ Scalable backend services
+
+▸ Production-ready deployments
